@@ -16,11 +16,6 @@ I'm Emmanuel, a dedicated software developer with a deep love for Flutter and Da
     
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=folaoluwafemi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=folaoluwafemi&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="folaoluwafemi" /></p>
 
 <br clear="left"/>
 
