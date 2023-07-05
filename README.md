@@ -11,9 +11,9 @@ I'm Emmanuel, a dedicated software developer with a deep love for Flutter and Da
 - 💞️ I’m looking to collaborate on projects with flutter and dart (server)
 - 📫 How to reach me:
     - (https://wa.me/+2347032434943) (Whatsapp)
-    - [https://www.linkedin.com/in/fola-oluwafemi/](https://www.linkedin.com/in/emmanuel-eneje/)
-    - folaoluwafemi55@gmail.com (email)
-    - @popestrings (twitter).
+    - [https://www.linkedin.com/in/emmanuel-eneje/](linkedin)
+    - manuelzandra.t@gmail.com (email)
+    
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folaoluwafemi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
