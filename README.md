@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm Emmanuel Alexander, a passionate software deve
 
 I'm Emmanuel, a dedicated software developer with a deep love for Flutter and Dart. I have extensive experience in developing cross-platform mobile applications using Flutter, a powerful framework for building beautiful and performant user interfaces. With Dart as my go-to language, I can create efficient and scalable solutions for various platforms.
 
-- 💞️ I’m looking to collaborate on projects with flutter and dart (server)
-- 📫 How to reach me:
-    - (https://wa.me/+2347032434943) (Whatsapp)
-    - [https://www.linkedin.com/in/emmanuel-eneje/](linkedin)
-    - manuelzandra.t@gmail.com (email)
+- **Email:** [manuelzandra.t@gmail.com]
+- **Whatsapp:** [https://wa.me/+2347032434943]
+- **Linkkedin:** [https://www.linkedin.com/in/emmanuel-eneje/]
+   
+  
     
 
 
@@ -29,7 +29,4 @@ I'm Emmanuel, a dedicated software developer with a deep love for Flutter and Da
 
 
 
-<!---
-folaoluwafemi/folaoluwafemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
