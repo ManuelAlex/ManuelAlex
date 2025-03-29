@@ -1,39 +1,57 @@
--# Welcome to My GitHub Profile!
+<h3 align="left">About Me</h3>
 
-## Hey there! 👋
+###
 
-Welcome to my GitHub profile! I'm Emmanuel Alexander, a passionate software developer specializing in Flutter and Dart. I'm thrilled to have you here. Allow me to give you a glimpse into my world of coding and creativity.
+<p align="left">I'm Emmanuel, a dedicated software developer with a deep love for Flutter and Dart. I have extensive experience in developing cross-platform mobile applications using Flutter, a powerful framework for building beautiful and performant user interfaces. With Dart as my go-to language, I can create efficient and scalable solutions for various platforms.</p>
 
-## About Me
+###
 
-I'm Emmanuel, a dedicated software developer with a deep love for Flutter and Dart. I have extensive experience in developing cross-platform mobile applications using Flutter, a powerful framework for building beautiful and performant user interfaces. With Dart as my go-to language, I can create efficient and scalable solutions for various platforms.
+<h3 align="left">Let's Build Amazing Apps Together!</h3>
 
-- **Email:** [manuelzandra.t@gmail.com]
-- **Whatsapp:** [https://wa.me/+2347032434943]
-- **Linkkedin:** [https://www.linkedin.com/in/emmanuel-eneje/]
-   
-  
-    
+###
 
+<h3 align="left">Tech Stack</h3>
 
+###
 
-<br clear="left"/>
+<p align="left">I firmly believe that collaboration is the key to creating exceptional software. I'm always open to exciting opportunities, new projects, and chances to learn from and work with others. If you have any ideas, suggestions, or if you'd like to discuss a potential collaboration, please don't hesitate to get in touch.<br><br>Thank you for visiting my GitHub profile, and I look forward to connecting with you soon!<br><br>Happy Fluttering! 😄</p>
 
-![ManuelAlex's github stats](https://github-readme-stats.vercel.app/api?username=ManuelAlex&show_icons=true&theme=gruvbox)
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelAlex&theme=gruvbox" alt="folaoluwafemi" /></p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManuelAlex&theme=gruvbox" alt = "" /></a> </p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/emmanuel-eneje/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Tochu_cool" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/channels/@manuel12" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
-
-## Let's Build Amazing Apps Together!
-
-I firmly believe that collaboration is the key to creating exceptional software. I'm always open to exciting opportunities, new projects, and chances to learn from and work with others. If you have any ideas, suggestions, or if you'd like to discuss a potential collaboration, please don't hesitate to get in touch.
-
-Thank you for visiting my GitHub profile, and I look forward to connecting with you soon!
-
-Happy Fluttering! 😄
-
-
-
+###
