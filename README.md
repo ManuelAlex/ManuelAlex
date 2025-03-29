@@ -10,11 +10,11 @@
 
 ###
 
-<h3 align="left">Tech Stack</h3>
+<p align="left">I firmly believe that collaboration is the key to creating exceptional software. I'm always open to exciting opportunities, new projects, and chances to learn from and work with others. If you have any ideas, suggestions, or if you'd like to discuss a potential collaboration, please don't hesitate to get in touch.<br><br>Thank you for visiting my GitHub profile, and I look forward to connecting with you soon!<br><br>Happy Fluttering! 😄</p>
 
 ###
 
-<p align="left">I firmly believe that collaboration is the key to creating exceptional software. I'm always open to exciting opportunities, new projects, and chances to learn from and work with others. If you have any ideas, suggestions, or if you'd like to discuss a potential collaboration, please don't hesitate to get in touch.<br><br>Thank you for visiting my GitHub profile, and I look forward to connecting with you soon!<br><br>Happy Fluttering! 😄</p>
+<h3 align="left">Tech Stack</h3>
 
 ###
 
